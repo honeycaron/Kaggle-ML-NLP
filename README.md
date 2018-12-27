@@ -24,12 +24,12 @@ Bag of Words has shown a slightly better performance. The biggest reason is, in 
 
 
 ## Images
-Apparently, kitchen is odd...<br>
-<img src="Bag of Words Meets Bags of Popcorn/word_vectors_output1.PNG" alt="result" width="500">
-<br>And Queen is similar to Princess! and awful is terrible!<br>
-<img src="Bag of Words Meets Bags of Popcorn/word_vectors_output2.PNG" alt="result" width="500">
-<br>This is how each cluster looks like.. Some are really similar to each other and some are...?<br>
-<img src="Bag of Words Meets Bags of Popcorn/word_vectors_Clustering_output1.PNG" alt="result" width="500">
+Apparently, kitchen is odd...<br><br>
+<img src="Bag of Words Meets Bags of Popcorn/word_vectors_output1.PNG" alt="result" width="1000">
+<br><br><br>And Queen is similar to Princess! and awful is terrible!<br><br>
+<img src="Bag of Words Meets Bags of Popcorn/word_vectors_output2.PNG" alt="result" width="1000">
+<br><br><br>This is how each cluster looks like.. Some are really similar to each other and some are...?<br><br>
+<img src="Bag of Words Meets Bags of Popcorn/word_vectors_Clustering_output1.PNG" alt="result" width="1000">
 
 ## References
 **Bags of Popcorn**
